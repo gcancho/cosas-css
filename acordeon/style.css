@@ -1,0 +1,28 @@
+body{ margin: 0; padding: 0;}
+h1{ text-align: center;}
+main{ width: 80%;
+    margin: 0 auto; 
+}
+
+.acordeon{ background: #eee;}
+.acordeon a{
+    text-decoration: none;
+    display: block;
+    background: #ddd;
+    line-height: 2.5;
+    padding: 0 1em;   
+    color: steelblue;
+    font-weight: bold;
+    border-bottom: 1px solid #ccc;
+}
+
+.acordeon p{ 
+    padding: 1em;
+    display: none;
+}
+
+.acordeon p:target{
+    color: red;
+    display: block;
+}
+
