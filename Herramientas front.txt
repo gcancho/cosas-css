@@ -10,6 +10,8 @@ https://unsplash.com/
 //Visualizador svg
 https://github.com/tibold/svg-explorer-extension/releases
 
+//Iconos
+https://icon-icons.com/es/download/123197/SVG/512/
 
 
 
